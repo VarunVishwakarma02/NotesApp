@@ -10,7 +10,6 @@ A simple and clean Android Notes Application built using **Kotlin** and **Jetpac
 - 🗂️ View a list of all notes
 - 🖊️ Edit or update existing notes
 - 🗑️ Delete notes
-- 🌙 Light & Dark theme support
 - ⚡ Built using Jetpack Compose for modern UI
 
 ---
